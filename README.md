@@ -12,6 +12,6 @@ those too much triimed will not serve for many people . thats why i will post th
 those isos are good to be used as base for making toolset isos, like the ones i will post , with android tools , mtk client. 
 and another with a build enviroment set to build orangefox recoery.
 
-and the isos are being made with mx-snapshot / iso-snapshot(antix) ,
+and the isos are being made with mx-snapshot / iso-snapshot(antix) , with xc compression. didnt updated pacages to date also unless state. (it could be a todo, run update upgrade all packages and mae a snapshot -but will probalby incresase size)
 
 if you use those isos as a base to mae other toolset/installed programs bundle kinds isos . open and issue and post the links to share with us too(for anyone finding here and wanting too)
